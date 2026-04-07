@@ -1,5 +1,4 @@
 # EliteTech_Intern
-Internship Tasks - ETL, Deep Learning, Deployment, Optimization
 📊 **EliteTech Internship Projects (End-to-End Data Science & ML Portfolio)**
 
 A comprehensive collection of **4 hands-on projects** covering the complete pipeline of **Data Engineering → Machine Learning → Deployment → Optimization**.
